@@ -17,6 +17,13 @@ const lookup = {
   facebook: "https://www.facebook.com",
   messenger: "https://messenger.com/",
   instagram: "https://instagram.com",
+  bbl: "https://mcl.blackboard.com/ultra/stream/",
+  teams: "https://teams.microsoft.com/v2/",
+  github: "https://github.com/",
+  figma: "https://www.figma.com/",
+  postman: "https://www.postman.com/",
+  youtube: "https://youtube.com",
+  twitch: "https://twitch.com",
 };
 const engine = "google";
 const engineUrls = {
@@ -65,7 +72,7 @@ const bookmarks = [
       {
         id: "0jrFbzs2RPspvzIR",
         label: "blackboard",
-        url: "https://mcl.blackboard.com/ultra",
+        url: "https://mcl.blackboard.com/ultra/stream/",
       },
       {
         id: "cIM8uKNViS2FaLEL",
