@@ -11,18 +11,18 @@ const searchButton = document.querySelector("#searchbar > button");
 const lookup = {
   "/": "/",
   reddit: "https://reddit.com/",
-  maps: "https://maps.google.com/",
+  map: "https://maps.google.com/",
   chatgpt: "https://chatgpt.com/",
   gemini: "https://gemini.google.com/app",
-  facebook: "https://www.facebook.com",
+  fb: "https://www.facebook.com",
   messenger: "https://messenger.com/",
-  instagram: "https://instagram.com",
+  ig: "https://instagram.com",
   bbl: "https://mcl.blackboard.com/ultra/stream/",
   teams: "https://teams.microsoft.com/v2/",
   github: "https://github.com/",
   figma: "https://www.figma.com/",
   postman: "https://www.postman.com/",
-  youtube: "https://youtube.com",
+  you: "https://youtube.com",
   twitch: "https://twitch.com",
 };
 const engine = "google";
